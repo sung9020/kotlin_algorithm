@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c2c937e-6000-402a-b197-4918828a213c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No100.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No12.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/HelloWorldKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/META-INF/kotlin_algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/META-INF/kotlin_algorithm.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/No1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/No1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/No2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/No2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/No3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/No3Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/No4Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/No4Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/No5Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/No5Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_algorithm/No9Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_algorithm/No9Kt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,27 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No5.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#68#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No6.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/No7.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,14 +41,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/No9.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state>
+              <caret selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/No10.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="23" column="19" lean-forward="true" selection-end-line="31" selection-end-column="1" />
               <folding>
-                <element signature="e#45#115#0" expanded="true" />
+                <element signature="e#45#119#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/No11.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="e#45#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/No100.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/No12.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -110,6 +124,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -125,12 +140,16 @@
         <option value="$PROJECT_DIR$/src/No7.kt" />
         <option value="$PROJECT_DIR$/src/No8.kt" />
         <option value="$PROJECT_DIR$/src/No9.kt" />
+        <option value="$PROJECT_DIR$/src/No10.kt" />
+        <option value="$PROJECT_DIR$/src/No11.kt" />
+        <option value="$PROJECT_DIR$/src/No100.kt" />
+        <option value="$PROJECT_DIR$/src/No12.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="374" />
-    <option name="y" value="27" />
+    <option name="x" value="368" />
+    <option name="y" value="26" />
     <option name="width" value="1072" />
     <option name="height" value="808" />
   </component>
@@ -139,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +175,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.No9Kt">
+  <component name="RunManager" selected="Kotlin.No12Kt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -209,40 +228,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="No100Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_algorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="No5Kt" />
+      <option name="MAIN_CLASS_NAME" value="No100Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No6Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="No10Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_algorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="No6Kt" />
+      <option name="MAIN_CLASS_NAME" value="No10Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No7Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="No11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_algorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="No7Kt" />
+      <option name="MAIN_CLASS_NAME" value="No11Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No12Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin_algorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="No12Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -294,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.No12Kt" />
+        <item itemvalue="Kotlin.No100Kt" />
+        <item itemvalue="Kotlin.No11Kt" />
+        <item itemvalue="Kotlin.No10Kt" />
         <item itemvalue="Kotlin.No9Kt" />
-        <item itemvalue="Kotlin.No8Kt" />
-        <item itemvalue="Kotlin.No7Kt" />
-        <item itemvalue="Kotlin.No6Kt" />
-        <item itemvalue="Kotlin.No5Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -315,12 +347,13 @@
       <workItem from="1572859058333" duration="431000" />
       <workItem from="1573544766847" duration="1036000" />
       <workItem from="1573624049986" duration="6787000" />
-      <workItem from="1573710506808" duration="5002000" />
+      <workItem from="1573710506808" duration="8080000" />
+      <workItem from="1573793295020" duration="3737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13256000" />
+    <option name="totallyTimeSpent" value="20071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,10 +365,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="374" y="27" width="1072" height="808" extended-state="0" />
+    <frame x="368" y="26" width="1072" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29514563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23106796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -345,12 +378,12 @@
       <window_info id="aws.explorer" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39944133" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32960895" />
@@ -395,6 +428,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/No8.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No9.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/No1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -416,20 +463,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/No8.kt">
+    <entry file="file://$PROJECT_DIR$/src/No11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/No9.kt">
+    <entry file="file://$PROJECT_DIR$/src/No10.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="23" column="19" lean-forward="true" selection-end-line="31" selection-end-column="1" />
           <folding>
-            <element signature="e#45#115#0" expanded="true" />
+            <element signature="e#45#119#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No11.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#45#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No100.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No12.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>

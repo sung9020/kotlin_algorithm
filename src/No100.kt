@@ -13,7 +13,7 @@ fun main(args:Array<String>){
 }
 
 
-fun factorial(N: Int): Int{
+fun fibo(N: Int): Int{
     if(N < 2) return N
     else{
         return factorial(N - 1) + factorial(N - 2)
